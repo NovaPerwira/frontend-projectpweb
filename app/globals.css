@@ -108,7 +108,7 @@
   }
 
   .spline-watermark{
-    display:none;
+    display:none !important;
   }
 }
 
