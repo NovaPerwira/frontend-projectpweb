@@ -10,6 +10,7 @@ import { Search, Star, Zap, Shield, Truck, ArrowRight, Sparkles, TrendingUp, Awa
 import Link from "next/link"
 import { siteData, fetchProducts } from "@/lib/data"
 import Navbar from "@/components/navbar"
+import "./globals.css"
 import Chatbot from "@/components/chatbot"
 
 export default function HomePage() {
